@@ -16,4 +16,4 @@ Compartilhando e colaborando projetos
 
 - ## 🚀 Como executar o projeto
 
-1. Clone o repositório: 
+1. Clone o repositório: https://github.com/viniciusalmeidaalves/curso-front-end-page-numero-secreto
