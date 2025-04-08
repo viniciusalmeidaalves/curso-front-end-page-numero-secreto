@@ -1,11 +1,12 @@
 # Curso Front-End Page Número Secreto - Alura
 
-Construindo a página do Spotify  
-Revisão prática de HTML, CSS e JS
+Curso Git e GitHub 
+Compartilhando e colaborando projetos
 
 ## 🖼 Prévia do Projeto
 
-*Página inicial do projeto [Nome]
+![image](https://github.com/user-attachments/assets/208b8827-d288-43ec-bb6e-c0e124e39b78)
+*Página inicial do projeto Númeto Secreto
 
 ## 🛠 Tecnologias utilizadas
 
