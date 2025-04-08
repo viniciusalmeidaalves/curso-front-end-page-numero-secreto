@@ -1,13 +1,18 @@
-<h1>Jogo do número secreto</h1>
+# Curso Front-End Page Número Secreto - Alura
 
-<h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+Construindo a página do Spotify  
+Revisão prática de HTML, CSS e JS
 
-## �� Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+## 🖼 Prévia do Projeto
 
-// Código omitido. 
+*Página inicial do projeto [Nome]
+
+## 🛠 Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+- ## 🚀 Como executar o projeto
+
+1. Clone o repositório: 
